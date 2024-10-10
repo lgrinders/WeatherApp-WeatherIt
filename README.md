@@ -1,13 +1,13 @@
-<h1>Amazon Clone</h1> 
-<p>This is a website I built to closely resemble the Amazon desktop home page.</p> 
+<h1>WeatherIt</h1> 
+<p>WeatherIt is a sleek, user-friendly website built with two APIs: one to find location data and another to provide weather details for that location.</p> 
 <h2>Features</h2> 
 <ul> 
-  <li>Multiple on-hover dropdown menus</li> 
-  <li>Advertisement Carousel.</li> 
-  <li>On-click sidebar with the same links as Amazon.</li> 
-  <li>Product slider similar to Amazon’s.</li> 
+  <li>Clean, modern, and playful design.</li> 
+  <li>Get real-time weather updates for major cities worldwide.</li> 
+  <li>Add and track weather for multiple locations simultaneously.</li> 
 </ul>
 
 
 
-![Overview of Amazon Clone](https://github.com/user-attachments/assets/92706195-3043-48e8-93bb-695c719f6ce3)
+![Overview of Amazon Clone](https://github.com/lgrinders/WeatherApp-WeatherIt/blob/main/WeatherIt%20image.jpg?raw=true)
+
